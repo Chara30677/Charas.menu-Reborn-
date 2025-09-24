@@ -13,8 +13,8 @@ Chara's Menu is a mod menu for Gorilla Tag, created by me, Chara30678 (Or Chara1
 ## Can I take code from this?
 No, If you're interested in using any code, you can find my contact information on my [linktree](https://linktr.ee/Chara10163) or in the [Discord server](https://discord.gg/GXsK5gcFJp). I'm happy to discuss any potential collaborations, so don't hesitate to contact me if you have any questions or ideas.
 
-### Development info
-This menu currently is under development and is not really OP. I have the basic Ghost Trolling stuff like Long arms, Speedboost, Ghost Monke, Noclip, and Invis Monke. There are some other mods like platforms and TP GUN, but I'm working on categorizing everything and adding more things. I've been very busy lately and havent had time to do anything with the menu. I might ask IIDK if he can make me a new menu, and if i do and IIDK does make me a new menu I'll credit him.
+## Development info
+**###This menu currently is under development and is not really OP. I have the basic Ghost Trolling stuff like Long arms, Speedboost, Ghost Monke, Noclip, and Invis Monke. There are some other mods like platforms and TP GUN, but I'm working on categorizing everything and adding more things. I've been very busy lately and havent had time to do anything with the menu. I might ask IIDK if he can make me a new menu, and if i do and IIDK does make me a new menu I'll credit him.**
 ---
 
 # Installation
